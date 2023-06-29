@@ -13,3 +13,6 @@
          <a href="https://github.com/INadezhda/Edicational_projects/blob/main/bd_ORM.py">bd_ORM.py</a> - для выборки данных о продажах книг используектся библиотека SQLALchemy.Скрипт импортирует модели данных, выводит выборки данных по запросу пользователя
          <a href="https://github.com/INadezhda/Edicational_projects/blob/main/model.py">-   model.py -  скрипт описывает модель данных предыдущего задания </a>
 </p> 
+<p>
+         <a href="https://github.com/INadezhda/Edicational_projects/blob/main/clients_db.py">clients_db.py</a> - программа управления клиентами на Python. Программа хранит информацию о клиентах, создает структуру базы данных, добавляет записи, вносит изменения в записи, удаляет записи, осуществляет выборку данных
+</p>
